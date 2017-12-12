@@ -26,6 +26,6 @@
     "jquery": "^2.2.4",
     "bootstrap": "^3.3.7",
     "font-awesome": "^4.7.0",
-    "openlayers": "^4.6.4"
+    "ol3-bower": "^3.11.0"
   }
 }

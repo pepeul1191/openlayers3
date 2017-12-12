@@ -13,7 +13,8 @@
         "express": "~3.4.7",
         "gulp-livereload": "^3.8.1",
         "handlebars": "^4.0.10",
-        "json-lint": "~0.1.0"
+        "json-lint": "~0.1.0",
+        "ol": "^4.6.4"
     },
     "devDependencies": {
         "gulp": "^3.9.1",
